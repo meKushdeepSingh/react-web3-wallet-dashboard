@@ -76,7 +76,7 @@ A beautiful, production-ready decentralized wallet dashboard built with React, T
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/meKushdeepSingh/react-web3-wallet-dashboard.git
    cd web3-wallet-dashboard
    ```
 
